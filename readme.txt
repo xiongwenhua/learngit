@@ -5,7 +5,7 @@ Createing a new branch is quick AND simple
 howekr
 erwinxinong
 aaabbcc
-this is feature1 branch
+this is bug branch
 aaaaa
 bbbb
 cccc
