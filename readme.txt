@@ -9,5 +9,8 @@ this is bug branch
 aaaaa
 bbbb
 cccc
+<<<<<<< Updated upstream
 dddd
 eeee
+=======
+>>>>>>> Stashed changes
